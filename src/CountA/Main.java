@@ -39,8 +39,8 @@ public class Main {
 		} finally {
 			
 			if(in != null) {
-                in.close();
-            }
+				in.close();
+			}
 			
 		}
 		
@@ -61,8 +61,8 @@ public class Main {
 		} finally {
 			
 			if (inputStream != null) {
-                inputStream.close();
-            }
+				inputStream.close();
+			}
 			
 		}
 		
